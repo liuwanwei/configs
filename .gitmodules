@@ -1,0 +1,3 @@
+[submodule "file_sync"]
+	path = file_sync
+	url = git@github.com:liuwanwei/file_sync.git
